@@ -1,2 +1,3 @@
-# MyFirstGitHubReoisitiry
-Reposity
+# MyFirstGitHubRepository
+Repository
+
